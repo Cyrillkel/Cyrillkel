@@ -2,7 +2,7 @@
 
 ### Hello, My Name Is Cyrill Kel 👋
 
-### I`m a frontend web developer
+### I`m a frontend developer
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -13,4 +13,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-Follow me
+
+### Follow me
+
+<img src="https://icons8.ru/icon/oWiuH0jFiU0R/телеграмма-app" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;(https://web.telegram.org/@io112)
+<img src="https://icons8.ru/icon/13912/facebook" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;(https://www.facebook.com/Cyrillkel09/)
+<img src="https://icons8.ru/icon/Xy10Jcu1L2Su/instagram" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;(https://www.instagram.com/kelman112)
